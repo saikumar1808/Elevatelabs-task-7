@@ -1,3 +1,4 @@
+Elevate-labs-task-7
 📊 Task 7 - Basic Sales Summary using SQLite and Python
 This project demonstrates how to connect Python with a SQLite database, run basic SQL queries to summarize sales data, and visualize the results using a bar chart.
 
